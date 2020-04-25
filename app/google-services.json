@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "667118347122",
+    "firebase_url": "https://joyjourney-7b082.firebaseio.com",
+    "project_id": "joyjourney-7b082",
+    "storage_bucket": "joyjourney-7b082.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:667118347122:android:778ca358c04a3ec33c73eb",
+        "android_client_info": {
+          "package_name": "com.yashodhara.joyJourney"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "667118347122-10o4tp6gbbj80glrn9acuscdkibgv6e9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWjqkKL1j17_kwn_blZO6KEb3vMQkZGz0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "667118347122-10o4tp6gbbj80glrn9acuscdkibgv6e9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
